@@ -1,0 +1,10 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const GETGUARD = "GETGUARD";
+export const GETEMPLOYEE = "GETEMPLOYEE";
+export const GETLOG = "GETLOG";
+export const GETVISITOR = "GETVISITOR";
+export const POSTGUARD = "POSTGUARD";
+export const POSTEMPLOYEE = "POSTEMPLOYEE";
+export const CHECKIN = "CHECKIN";
+export const CHECKOUT = "CHECKOUT";
